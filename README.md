@@ -9,5 +9,3 @@ To check how the code works refer to the article: ["How to show a different disp
 
 2. Using JavaScript
    - `select-option-js.html`
-
-
