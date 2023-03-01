@@ -1,4 +1,4 @@
-To read the instructions in english visit: [nepy - english version](http://localhost/nepyexam/online/nepy/public/article.php?pid=63fc96f87e90b&lan=en) 
+To read the instructions in english visit: [english version](https://github.com/statsconchris/js.select-option/tree/english) 
 <hr />
 
 Para leer las instrucciones en español visitar: [versión en español](https://github.com/statsconchris/js.select-option/tree/espanol)
