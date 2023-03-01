@@ -15,7 +15,7 @@ Ofrecemos dos soluciones, una usando JavaScript y la otra usando JQuery. Para pe
 **Información**
 - Para ver cómo funciona el código, leer el artículo: 
 
-  ["Cómo cambiar la información mostrada en base a la elección de select option"](https://nepy.pe/article.php?pid=63fc96f87e90b&lan=es).
+  [Cómo cambiar la información mostrada en base a la elección de select option](https://nepy.pe/article.php?pid=63fc96f87e90b&lan=es).
 
 
 
