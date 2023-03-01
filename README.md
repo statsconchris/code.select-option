@@ -1,4 +1,13 @@
-To read the instructions in english visit: [nepy - english version](http://localhost/nepyexam/online/nepy/public/article.php?pid=63fc96f87e90b&lan=en) 
-<hr />
+## How to show a different display based on the select option chosen
+We offer two solutions. One with JavaScript and the other with JQuery. To personalize the template, we consider Bootstrap.
 
-Para leer las instrucciones en español visitar: [nepy - versión en español](http://localhost/nepyexam/online/nepy/public/article.php?pid=63fc96f87e90b&lan=es)
+To check how the code works refer to the [article](https://nepy.pe/article.php?pid=63fc96f87e90b&lan=en) at nepy.pe.
+
+1. Using JQuery. 
+ - style.css
+ - select-option-jquery.html
+
+2. Using JavaScript
+ - select-option-js.html
+
+
